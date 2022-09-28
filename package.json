@@ -1,0 +1,12 @@
+{
+  "name": "projects",
+  "version": "1.0.0",
+  "description": "first microservice week 1 class",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wilson",
+  "license": "ISC",
+  "keywords": []
+}
